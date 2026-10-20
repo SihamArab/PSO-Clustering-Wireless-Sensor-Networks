@@ -1,11 +1,8 @@
 # pso-wsn-clustering
 
 Energy-efficient cluster head selection in a wireless sensor network with Particle Swarm Optimization,
-compared with LEACH under the first-order radio model. MATLAB simulation in a single file.
-
+compared with LEACH under the first-order radio model. 
 Master's project, University of Boumerdès, carried out as a pair project with Riham Boutaib.
-
-This implementation follows the model described in the project report. Its outputs are not the figures of the report.
 
 ## Problem
 
