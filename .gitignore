@@ -1,0 +1,8 @@
+# Octave et MATLAB
+results/
+*.asv
+*.m~
+octave-workspace
+
+# Systeme
+.DS_Store
