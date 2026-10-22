@@ -81,14 +81,6 @@ takes about 4 s in Octave, so the full 50 runs are long there. Use fewer runs fo
 pso_wsn.m    complete simulation: parameters, radio model, LEACH, PSO, experiment and summary
 ```
 
-## Notes on the report
-
-- The text gives 5.0 J initial energy in one place and 0.5 J and 1.0 J in the tables. The tables are used here.
-- c1 = c2 is 1 in one place and 1.494 in another. 1.494 is used.
-- Three fitness formulations appear, with sigma_E or with the total network energy as the third term.
-- With the energies and packet size stated, a node lasts well over a thousand rounds, while the report gives network lifetimes of a few tens of rounds.
-- The MAC is ideal, so collisions are not modelled. An extension to a packet level simulator would remove this limit.
-
 ## License
 
 MIT
