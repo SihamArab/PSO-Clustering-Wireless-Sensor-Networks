@@ -78,7 +78,7 @@ takes about 4 s in Octave, so the full 50 runs are long there. Use fewer runs fo
 ## Files
 
 ```
-src/pso_wsn.m    complete simulation: parameters, radio model, LEACH, PSO, experiment and summary
+pso_wsn.m    complete simulation: parameters, radio model, LEACH, PSO, experiment and summary
 ```
 
 ## Notes on the report
